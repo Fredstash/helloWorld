@@ -13,5 +13,4 @@ This is my hello world program in order to practice the components of my develop
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Here is GitHub](http://url.link.goes.here)
+* [Here is GitHub](https://github.com/)
