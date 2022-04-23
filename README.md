@@ -2,7 +2,7 @@
 
 This is my hello world program in order to practice the components of my development environment.
 
-[Hello World YouTube Video](http://youtube.link.goes.here)
+[Hello World YouTube Video](https://youtu.be/0QAspKFZmTo)
 
 # Development Environment
 
